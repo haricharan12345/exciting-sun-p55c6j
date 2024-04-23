@@ -1,0 +1,23 @@
+.* {
+  margin: 0;
+  padding: 0;
+}
+.head {
+  font-size: normal;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: brown;
+  border-bottom: 1px solid red;
+  text-align: center;
+}
+.mainDiv {
+  border: 1px solid red;
+  background: linear-gradient(to right, blue, white);
+  min-width: 100px;
+  padding: 10px;
+}
+.details {
+  text-align: center;
+}
+p {
+  padding: 10px;
+}
